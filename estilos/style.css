@@ -11,8 +11,8 @@ body{
 
 main {
     background-color:white;
-    width: 500px;
+    width: 800px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5 px rgba(0, 0, 0, 0.596);
+    box-shadow: 3px 3px 3 px rgba(0, 0, 0, 0.596);
 }
